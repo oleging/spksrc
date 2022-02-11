@@ -41,7 +41,7 @@ ipaddress==1.0.19
 typing==3.5.2.2
 
 # Twisted and dependencies
-twisted==17.9.0
+twisted==22.1.0
 zope.interface==4.4.3
 Automat==0.6.0
 constantly==15.1.0
